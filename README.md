@@ -1,3 +1,5 @@
+[![Discord](https://img.shields.io/discord/729256474471170089.svg)](https://discord.gg/puEzjM8)
+
 # esx_society
 
 Society management for ESX. Adds employee management (hire, fire, promote / demote, change salary), society bank accounts and money washing. It's crucial that this script gets started before all resources that utilize societies do, or else many things will go wrong.
